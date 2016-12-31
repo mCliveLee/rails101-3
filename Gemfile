@@ -36,6 +36,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'bootstrap-sass'
 # Web CSS frame
+gem 'simple_form'
+# make the form simple
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
