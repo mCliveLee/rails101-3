@@ -40,6 +40,8 @@ gem 'simple_form'
 # make the form simple
 gem 'devise'
 # for Login system
+gem 'will_paginate'
+# for paginate
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
